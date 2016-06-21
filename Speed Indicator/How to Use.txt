@@ -1,0 +1,24 @@
+How to Use
+
+Knowledge:
+1.	Knowledge about Processing IDE
+2.	Knowledge about embedded/Arduino programming
+
+Prerequisites:
+1.	Processing 2.2.x IDE installed on Windows 7+PC
+
+Testing:
+1.	Open Test.pde located inside test folder.
+2.	Read the code and run the program to understand how it works.
+
+Procedure:
+1.	Now open SpeedOMeter.pde located in SpeedOMeter folder.
+2.	Check for port and baud rate
+3.	Change the value of divisor according to the maximum value in you code. Read the code for more details.
+4.	Now run the code to see the indicator indicating the sensor value in analog speedometer way.
+5.	Download the code and make changes according to your needs. Thank you have fun.
+
+Usage:
+1.	This is just an example how we can make a speedometer indicator for our Embedded or IoT projects.
+2.	It uses serial communication for getting the data. We can change it to wireless communication for getting data.
+3.	The best way of getting more out of it is taking the logic and develop in python environment.
